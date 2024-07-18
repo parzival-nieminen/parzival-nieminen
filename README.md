@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+Greetings on my kata repository, have a wonderful day.
+## General information and documents from the Kata sessions
+- [Link list](Links.md)
 
 <!--
 **parzival-nieminen/parzival-nieminen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
